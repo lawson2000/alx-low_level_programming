@@ -15,6 +15,6 @@ int main(void)
 		if (bet != 'e' && bet != 'q')
 			putchar(bet);
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
