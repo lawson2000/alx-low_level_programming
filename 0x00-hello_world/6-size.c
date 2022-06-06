@@ -8,11 +8,16 @@
 
 int main(void)
 {
-	printf("size of a char: 1 byte(s)\n", stderr);
-	printf("size of an int: 4 byte(s)\n", stderr);
-	printf("size of a long int: 4 byte(s)\n", stderr);
-	printf("size of a long long int: 8 byte(s)\n", stderr);
-	printf("size of a float: 4 byte(s)\n");
+	char acharacter;
+	int ainteger;
+	long along;
+	float afloat;
+
+	printf("size of a char: %d byte(s)\n", sizeof(acharacter));
+	printf("size of an int: %d byte(s)\n", sizeof(ainteger));
+	printf("size of a long int: %d byte(s)\n", sizeof(along));
+	printf("size of a long long int: %d byte(s)\n", sizeof(alonglong));
+	printf("size of a float: %d byte(s)\n", sizeof(afloat));
 
 	return (0);
 }
