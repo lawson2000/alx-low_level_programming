@@ -1,6 +1,6 @@
 #include <stdio.h>
+
 /**
- *
  * main - print all single digit numbers using putchar
  *
  * Return: Always 0 (success)
