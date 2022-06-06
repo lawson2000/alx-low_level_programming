@@ -2,11 +2,11 @@
 2 #include <time.h>
 3 #include <stdio.h>
 4 /**
-5  * main - Determine if the last digit of a random number is
-6  * greater than or less than 5, or is zero..
+5 * main - Determine if the last digit of a random number is
+6 * greater than or less than 5, or is zero..
 7 (*
-8  * Return: 0 on success
-9  */
+8 * Return: 0 on success
+9 */
 10 int main(void)
 11 {
 12         int n;
