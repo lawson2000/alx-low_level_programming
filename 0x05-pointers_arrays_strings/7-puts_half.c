@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.c"
 /**
  *puts_half - string followed by a new line.
  *@str: value to be evaluate.
