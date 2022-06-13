@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "holberton.h"
+#include "main.c"
 /**
 *swap_int - swaps the values of two integers.
 *@a: value to be evaluate.
